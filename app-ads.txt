@@ -14,3 +14,4 @@ sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 google.com, pub-5465023685692604, DIRECT, f08c47fec0942fa0
+google.com, pub-7316269135273707, DIRECT, f08c47fec0942fa0
